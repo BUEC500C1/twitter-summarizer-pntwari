@@ -1,0 +1,31 @@
+{
+
+"identification": 
+	{
+	"id": "26887",
+	"ident": "WSSS",
+	"iata_code": "SIN",
+	"name": "Singapore Changi Airport"
+	}
+
+	"type": "large_airport",
+"location": 
+	{
+	"latitude_deg": "1.35019",
+	"longitude_deg": "103.994003",
+	"elevation": "22", 
+	"continent": "AS",
+	"iso_country": "SG",
+	"iso_region": "SG-04", 
+	"municipality": "Singapore",
+	"gps_code": "WSSS",
+	"local_code": null
+	}
+	"link":	{
+	"home": "http://www.changiairport.com/",
+	"wikipedia": "https://en.wikipedia.org/wiki/Singapore_Changi_Airport"
+	}
+
+	"keywords": []
+
+}
