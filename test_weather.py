@@ -11,6 +11,6 @@
 
 import pytest
 
-def cityTest():
+def test_city():
     assert"Found" == "Found"
 
