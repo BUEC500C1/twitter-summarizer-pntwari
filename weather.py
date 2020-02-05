@@ -52,15 +52,3 @@ def cityCall(city):
   else: 
     print("The city does not exist")
 
-
-def main():
-
-  # Enter a city with a country code after the comma. THe list of country codes is in an
-  # attached document
-  city = "Wuhan,CN"
-
-  cityCall(city)
-    
-
-if __name__ == "__main__":
-  main()
