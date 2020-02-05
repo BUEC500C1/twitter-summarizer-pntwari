@@ -48,7 +48,8 @@ def cityCall(city):
     print("The temperature will be: %.0f deg F" % (ftempF))
     print("The wind speed is: %.0f m/s" %(fwind))
     print("Generally %s " %(fweather))
+    return "Found"
 
   else: 
     print("The city does not exist")
-
+    return "Error"
