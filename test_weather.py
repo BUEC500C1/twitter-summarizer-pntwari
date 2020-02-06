@@ -10,7 +10,7 @@
 # Converting numbers from arabic to roman numerals
 
 import pytest
+import weather
 
 def test_city():
-    assert"Found" == "Found"
-
+    assert weather.cityCall("Montreal,CA") == "Found"
